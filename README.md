@@ -43,7 +43,7 @@ Docker (optional for containerized deployment)
 
 BUILD AND RUN :
 # Clone repository
-git clone https://github.com/<your-username>/Customer-Churn-Prediction.git
+git clone https://github.com/Tushar10987/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 
 # Create virtual environment
